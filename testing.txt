@@ -1,2 +1,6 @@
 this is my new file
+
 this is a new line
+
+I edited this differently
+
